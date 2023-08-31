@@ -1,5 +1,8 @@
 # Cálculo Paralelo do Produto Escalar em Python
-## Disciplina: Sistemas Distribuídos - Curso Sistemas para Internet
+## Disciplina: Sistemas Distribuídos
+### Aluno: Rafael Paiviandre Maia
+### Matricula: 2023101700
+### Curso Sistemas para Internet
 
 ### Introdução
 Este repositório contém um aplicativo em Python que demonstra o uso de computação paralela para calcular o produto escalar de dois vetores grandes. O aplicativo utiliza a biblioteca multiprocessing do Python para realizar cálculos de forma paralela. Este projeto serve como um exemplo educacional para demonstrar como tarefas computacionalmente intensivas podem ser distribuídas entre múltiplos processadores para uma computação mais eficiente.
